@@ -1,0 +1,3 @@
+These is third file for git template
+
+Once more added a changes inside c which is present inside a staging area 
